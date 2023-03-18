@@ -1,0 +1,20 @@
+/*for tablets*/
+@media (max-width: 1000px) {
+    .contents-item {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+}
+
+/*for smartphones*/
+@media (max-width: 670px) { 
+    .footer {
+        text-align: center;
+    }
+    .contents {
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 15px;
+    }
+}
